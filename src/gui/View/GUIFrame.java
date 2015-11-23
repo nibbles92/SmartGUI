@@ -20,7 +20,7 @@ public class GUIFrame extends JFrame
 		this.setContentPane(basePanel);
 		this.setResizable(false);
 		this.setTitle("I DID THIS ALL BY MYSELF!!!");
-		this.setSize(400,400);
+		this.setSize(500,500);
 		this.setVisible(true);
 	}
 	
